@@ -10,7 +10,7 @@
 
 - [Fork This! Paranoids’ Grafeas Improvements Add Amazon RDS Support and Speed-Up Queries](https://www.yahooinc.com/paranoids/paranoids-grafeas-improvements) Yahoo Blog, Dec 2021
 
-#### Open-source code contributions
+#### Open Source Code Contributions
 
 - [google/go-containerregistry](https://github.com/google/go-containerregistry/pulls?q=is%3Apr+author%3Azhaoyonghe+)
 - [sigstore/cosign](https://github.com/sigstore/cosign/pulls?q=is%3Apr+author%3Azhaoyonghe+)
