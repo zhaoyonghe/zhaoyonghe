@@ -17,7 +17,7 @@
 - [google/k8s-digester](https://github.com/google/k8s-digester/pulls?q=is%3Apr+author%3Azhaoyonghe+)
 - [AthenZ/athenz](https://github.com/AthenZ/athenz/pulls?q=is%3Apr+author%3Azhaoyonghe+)
 - [grafeas/grafeas](https://github.com/grafeas/grafeas/pulls?q=is%3Apr+author%3Azhaoyonghe+)
-- [theparanoids/grafeas-rds](https://github.com/theparanoids/grafeas-rds/pulls?q=is%3Apr+author%3Azhaoyonghe)
+- [theparanoids/grafeas-rds](https://github.com/theparanoids/grafeas-rds/commits/main/?author=zhaoyonghe)
 
 <!--
 **zhaoyonghe/zhaoyonghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
